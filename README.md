@@ -9,7 +9,7 @@ A linear data structure is a type of data structure in which the data elements a
 * [Array](https://github.com/maikella/data-structures/tree/main/src/com/maikella/datastructures/lineardatastructure/array)
 
   * [Reverse an array](https://github.com/maikella/data-structures/blob/main/src/com/maikella/datastructures/lineardatastructure/array/Reverse.java)
-  * [Search, insert and delete in a sorted array](https://github.com/maikella/data-structures/blob/main/src/com/maikella/datastructures/lineardatastructure/array/Array.java)
+  * [Search, insert and delete in a sorted array](https://github.com/maikella/data-structures/blob/main/src/com/maikella/datastructures/lineardatastructure/array/MyArray.java)
   * [Merge two sorted arrays](https://github.com/maikella/data-structures/blob/main/src/com/maikella/datastructures/lineardatastructure/array/Merge.java)
   * [Find the maximum and minimum element in an array](https://github.com/maikella/data-structures/blob/main/src/com/maikella/datastructures/lineardatastructure/array/MaxMin.java)
   * [Find the missing number](https://github.com/maikella/data-structures/blob/main/src/com/maikella/datastructures/lineardatastructure/array/Missing.java)
